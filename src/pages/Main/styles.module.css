@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  width: 100%;
+  padding: 10px;
+  background-color: rgba(rgb(231, 223, 223), green, blue, alpha);
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
